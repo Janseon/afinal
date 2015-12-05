@@ -2,17 +2,24 @@
 <items version="2" >
 
     <item
+        jar="D:\android\AndroidStudioProjects\afinal\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="D:\android\AndroidStudioProjects\afinal\app\build\intermediates\pre-dexed\debug\com.android.support-design-22.2.1_f96eca51b63a92fb8bbd8d2772f9210e6df1e9c9.jar" />
+    </item>
+    <item
         jar="D:\android\AndroidStudioProjects\afinal\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="c76a0fd638e80a6a58666e31a01f4de8e5b249e5">
+        sha1="025da670f3dbf5b1bef1490ca6937e01d36e332a">
         <dex dex="D:\android\AndroidStudioProjects\afinal\app\build\intermediates\pre-dexed\debug\instant-run_0552ffbbc1be4d4aa36eaa81bdf576f66ff1819d.jar" />
     </item>
     <item
         jar="D:\android\AndroidStudioProjects\afinal\app\build\intermediates\incremental-classes\debug\classes.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="d5d0267bddf14eb8cc4c71f9ca77245b4d51023c">
+        sha1="38535aff1054fc36c6bfcb86dc5220f528443120">
         <dex dex="D:\android\AndroidStudioProjects\afinal\app\build\intermediates\pre-dexed\debug\classes_f0e25294a4523837cc6667e5a5ea02c10c20eea6.jar" />
     </item>
     <item
